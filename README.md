@@ -3,7 +3,8 @@
 ## Exercises
 - [Fibonacci Sequence](./katas/fibonacci/fibonacci.md)
 - [Fizz-buzz](./katas/fizz-buzz.md)
-- [Leap year](./katas/leap-year.md)
+- [Leap Year](./katas/leap-year.md)
+- [Phone Numbers](./katas/phone-numbers.md)
 
 ## Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
