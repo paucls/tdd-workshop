@@ -1,7 +1,7 @@
 # TDD and Simple Design Workshop
 
 ## Exercises
-- [Fibonacci Sequence](./katas/fibonacci/fibonacci.md)
+- [Fibonacci Sequence](./katas/fibonacci.md)
 - [Fizz-buzz](./katas/fizz-buzz.md)
 - [Leap Year](./katas/leap-year.md)
 - [Phone Numbers](./katas/phone-numbers.md)
