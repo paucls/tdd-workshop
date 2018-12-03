@@ -5,6 +5,7 @@
 - [Fizz-buzz](./katas/fizz-buzz.md)
 - [Leap Year](./katas/leap-year.md)
 - [Phone Numbers](./katas/phone-numbers.md)
+- [Rock Paper Scissors](./katas/rock-paper-scissors.md)
 
 ## Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
