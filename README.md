@@ -12,13 +12,16 @@
 ## Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
 
-- [Java](https://github.com/paucls/java-gradle-kata-seed)
+ - [Java](https://github.com/paucls/java-gradle-kata-seed)
  (Junit 4, AssertJ, Mockito, JUnitParams)
 
 - [Kotlin](https://github.com/paucls/kotlin-spek-kata-seed)
- (Spek or Junit 4 test suits. AssertJ, Mockito)
+ (Spek or Junit 4 test suits. AssertJ, Mockito, JUnitParams)
 
-- [TypeScript + Jasmine](https://github.com/paucls/tdd-kata-seeds/tree/master/typescript-jasmine)
+- [C#](https://github.com/paucls/tdd-kata-seeds/tree/master//csharp-nunit)
+ (NUnit, Moq)
+
+- [TypeScript + Jasmine](https://github.com/paucls/tdd-kata-seeds/tree/master//typescript-jasmine)
  (Jasmine, Jasmine-Parameterized)
 
 - [TypeScript + Mocha](https://github.com/paucls/typescript-mocha-kata-seed)
