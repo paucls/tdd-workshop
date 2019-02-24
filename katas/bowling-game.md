@@ -28,10 +28,10 @@ Always hitting pins without getting spares or strikes, a total score of 60.
 - [9,0,9,0,9,0,9,0,9,0,9,0,9,0,9,0,9,0,9,0]
 Heartbreak, 9 pins down each round, giving a score of 90.
 
-- [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5, 5]
+- [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,**5**]
 A spare every round, giving a score of 150.
 
-- [10,10,10,10,10,10,10,10,10,10, 10,10]
+- [10,10,10,10,10,10,10,10,10,10,**10**,**10**]
 A perfect game, 12 strikes, giving a score of 300.
 
 Source: The Coding Dojo Handbook, Emily Bache
