@@ -1,12 +1,8 @@
 # Fizz-Buzz Kata
 
-Write a program that prints the numbers from 1 to 100.
-But for multiples of three print "Fizz" instead of the
-number and for the multiples of five print "Buzz". For
-numbers which are multiples of both three and five
-print "FizzBuzz".
+Write a function that takes numbers from 1 to 100 and outputs them as a string. But for multiples of three it returns "Fizz" instead of the number and for the multiples of five it returns "Buzz". For numbers which are multiples of both three and five returns "FizzBuzz".
 
-## Sample output
+## Sample outputs
 ```
 1
 2
@@ -23,12 +19,7 @@ Fizz
 13
 14
 FizzBuzz
-16
-17
-Fizz
-19
-Buzz
-... etc up to 100
+...
 ```
 
 Source: cyber-dojo.org
