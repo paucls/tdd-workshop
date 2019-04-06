@@ -8,7 +8,8 @@
 - [Phone Numbers](./katas/phone-numbers.md)
 - [Bowling Game](./katas/bowling-game.md)
 - [Rock Paper Scissors](./katas/rock-paper-scissors.md)
-- [Bank account](./katas/bank-account.md)
+- [Customer Registration](./katas/customer-registration.md)
+- [Bank Account](./katas/bank-account.md)
 
 ## Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
