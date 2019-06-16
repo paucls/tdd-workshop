@@ -20,7 +20,7 @@ The input is a sequence of rolls (number of pins knocked down each time player r
 Sample games:
 
 - [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
-A gutter-game, 0 pins for all rolls, giving a score of 0.
+A gutter-game, 0 pins for all 20 rolls, giving a score of 0.
 
 - [1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5]
 Always hitting pins without getting spares or strikes, a total score of 60.
