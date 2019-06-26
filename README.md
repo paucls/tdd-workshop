@@ -5,6 +5,7 @@
 - [Fizz-buzz](./katas/fizz-buzz.md)
 - [Leap Year](./katas/leap-year.md)
 - [Password Validator](./katas/password-validator.md)
+- [String Calculator](./katas/string-calculator.md)
 - [Phone Numbers](./katas/phone-numbers.md)
 - [Bowling Game](./katas/bowling-game.md)
 - [Rock Paper Scissors](./katas/rock-paper-scissors.md)
