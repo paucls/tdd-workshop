@@ -8,7 +8,7 @@
 - [String Calculator](./katas/string-calculator.md)
 - [Phone Numbers](./katas/phone-numbers.md)
 - [Bowling Game](./katas/bowling-game.md)
-- [Rock Paper Scissors](./katas/rock-paper-scissors.md)
+- [Rock Paper Scissors](./katas/rock-paper-scissors-oo.md)
 - [Customer Registration](./katas/customer-registration.md)
 - [Bank Account](./katas/bank-account.md)
 
