@@ -22,11 +22,16 @@
     - the following input is NOT ok:  `“1,\n”` (not need to prove it - just clarifying).
 
 4. Support different delimiters
-    - to change a delimiter, the beginning of the string will contain a separate line that looks like this:   `“//[delimiter]\n[numbers…]”` for example `“//;\n1;2”` should return three where the default delimiter is `‘;’`.
+    - to change a delimiter, the beginning of the string will contain a separate line that looks like this:   `“//[delimiter]\n[numbers…]”` for example `“//;\n1;2”` should return three where the customized delimiter is `‘;’`.
     - the first line is optional. all existing scenarios should still be supported.
 
 5. Calling add with a negative number will throw an exception `“negatives not allowed”` - and the negative that was passed.if there are multiple negatives, show all of them in the exception message.
 
 6. Numbers bigger than 1000 should be ignored, so adding `2 + 1001  = 2`.
+
+## General requirements
+- Use whatever language and frameworks you want. Use something that you know well.
+- Implement the requirements focusing on **writing the best code** you can produce.
+
 
 Source: https://osherove.com/tdd-kata-1/
